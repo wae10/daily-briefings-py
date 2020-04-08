@@ -5,3 +5,6 @@ requests
 sendgrid==6.0.5
 
 Flask
+
+# heroku needs this to run our app on the server
+gunicorn
